@@ -1,4 +1,4 @@
-// stadfx.h comes with visual studio
+// stadfx.h comes with visual studio remove if unnecessary
 #include "stdafx.h"
 #include <iostream>
 #include <Windows.h>
