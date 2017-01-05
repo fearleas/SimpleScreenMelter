@@ -5,7 +5,7 @@
 #include <wingdi.h>
 
 int main() {
-	// If don't want the console use this, else just remove this line
+	// If you don't want the console use this, else just remove this line
 	FreeConsole();
 
 	// Get screen stats
